@@ -1,3 +1,3 @@
 # divide-musics-official
 
-Membuat Website Group Band Music menggunakan HTML
+Membuat Website Group Band Music menggunakan CSS, HTML dan JavaScript
